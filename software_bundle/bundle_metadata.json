@@ -1,0 +1,11 @@
+﻿{
+    "softwares": [
+        {
+            "id": "python",
+            "name": "Python",
+            "version": "3.11,3.12,3.13",
+            "url": "python_0.0.1.bundle",
+            "sha256": "26f1d240e9ac04dc2e8054f846f96946e049a086427a9b546eaad5320abbd12e"
+        }
+    ]
+}

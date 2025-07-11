@@ -1,0 +1,20 @@
+{
+    "name": "DATA SCIENCE & ANALYTICS",
+    "icon": "data_analytics.svg",
+    "short_desc": "Data manipulation and preprocessing. Large-scale data processing for machine learning pipelines.",
+    "long_desc": "Data manipulation and preprocessing. Large-scale data processing for machine learning pipelines.",
+    "top_favorite": [
+        {
+            "name": "Python",
+            "url": "python_0.0.1.bundle",
+            "sha256": "26f1d240e9ac04dc2e8054f846f96946e049a086427a9b546eaad5320abbd12e"
+        }
+    ],
+    "app_list": [
+        {
+            "name": "Python",
+            "url": "python_0.0.1.bundle",
+            "sha256": "26f1d240e9ac04dc2e8054f846f96946e049a086427a9b546eaad5320abbd12e"
+        }
+    ]
+}

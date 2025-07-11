@@ -1,0 +1,18 @@
+﻿{
+    "categories": [
+        {
+            "id": "ai_ml_software_list",
+            "name": "AI/ML",
+            "version": "0.0.1",
+            "url": "ai_ml_software_list_0.0.1.json",
+            "sha256": "3af86273e77f90dcde84d5ca91c50b3a83c7b5af7b2de4cd927f2790f35fd928"
+        },
+        {
+            "id": "data_analytics_software_list",
+            "name": "DATA SCIENCE & ANALYTICS",
+            "version": "0.0.1",
+            "url": "data_analytics_software_list_0.0.1.json",
+            "sha256": "12678b259b6b7f4338b2dd19ce500d3de4c91df519d76abd1c7bf8de17819938"
+        }
+    ]
+}

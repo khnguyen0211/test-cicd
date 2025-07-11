@@ -1,0 +1,20 @@
+{
+    "name": "AI/ML",
+    "icon": "ai_ml.svg",
+    "short_desc": "Developing and training AI models using frameworks like TensorFlow, PyTorch, and JAX, data preprocessing and automation tasks",
+    "long_desc": "This use case includes essential programming languages, libraries, and frameworks used to build, train, and evaluate machine learning models. It includes Python ecosystems, numerical computing libraries, and major AI frameworks like PyTorch and TensorFlow. These tools form the core technical stack for any AI project, enabling rapid experimentation and efficient model development.",
+    "top_favorite": [
+        {
+            "name": "Python",
+            "url": "python_0.0.1.bundle",
+            "sha256": "26f1d240e9ac04dc2e8054f846f96946e049a086427a9b546eaad5320abbd12e"
+        }
+    ],
+    "app_list": [
+        {
+            "name": "Python",
+            "url": "python_0.0.1.bundle",
+            "sha256": "26f1d240e9ac04dc2e8054f846f96946e049a086427a9b546eaad5320abbd12e"
+        }
+    ]
+}

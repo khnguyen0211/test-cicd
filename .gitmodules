@@ -1,0 +1,4 @@
+[submodule "bootstrap/src"]
+	path = bootstrap/src
+	url = git@gitlab.hiptechvn.com:hiptech/warp-bootstrap.git
+	branch = develop
